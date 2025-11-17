@@ -10,7 +10,7 @@ A lightweight KWGT preset for Android that follows Material You 3 aesthetics —
 - Included screenshots and install instructions
 
 ## Preview
-[Download raw file](https://raw.githubusercontent.com/SIFAT-AL-MUKIT/Material-You-3-expensive-KWGT-Widget/main/presets/material-you-3-luxe-v1.kwgt)
+[Download the .kwgt file](presets/material-you-3-expressive-v1.kwgt)
 ![Preview screenshot](assets/screenshots/Screenshot_20251117-233400.png)
 
 ## Install
