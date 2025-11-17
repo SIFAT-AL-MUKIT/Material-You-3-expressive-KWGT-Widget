@@ -1,5 +1,5 @@
 
-# Material You 3 expensive KWGT Widget
+# Material You 3 Expressive KWGT Widget
 
 A lightweight KWGT preset for Android that follows Material You 3 aesthetics — large Bengali time/date, four configurable app shortcuts, and a dark-teal gradient background.
 
