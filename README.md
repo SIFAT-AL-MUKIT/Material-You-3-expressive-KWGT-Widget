@@ -15,7 +15,7 @@ A lightweight KWGT preset for Android that follows Material You 3 aesthetics —
 
 ## Install
 1. Install KWGT and KWGT Pro (required for custom presets).  
-2. Download the latest `.kwgt` file from the `presets/` folder or Releases.  
+2. [Download the latest `.kwgt` file](presets/material-you-3-expressive-v1.kwgt) from the `presets/` folder or Releases.  
 3. Open KWGT → Installed → tap the + icon → Load the downloaded `.kwgt` preset.  
 4. Grant overlay permission and adjust scale/position as needed; assign app actions to shortcuts.
 
