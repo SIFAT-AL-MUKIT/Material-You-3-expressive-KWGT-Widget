@@ -9,6 +9,9 @@ A lightweight KWGT preset for Android that follows Material You 3 aesthetics —
 - Dark-teal gradient background and responsive spacing  
 - Included screenshots and install instructions
 
+## Preview
+![Preview screenshot](assets/screenshots/Screenshot_20251117-233400.png)
+
 ## Install
 1. Install KWGT and KWGT Pro (required for custom presets).  
 2. Download the latest `.kwgt` file from the `presets/` folder or Releases.  
