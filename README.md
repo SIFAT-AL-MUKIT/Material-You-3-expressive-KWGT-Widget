@@ -16,7 +16,7 @@ A lightweight KWGT preset for Android that follows Material You 3 aesthetics —
 4. Grant overlay permission and adjust scale/position as needed; assign app actions to shortcuts.
 
 ## Files
-- `presets/material-you-3-expensive-v1.kwgt` — KWGT preset file  
+- `presets/material-you-3-expressive-v1.kwgt` — KWGT preset file  
 - `assets/screenshots/` — preview images  
 - `assets/icons/` — included icons (check license)  
 - `LICENSE` — project license
